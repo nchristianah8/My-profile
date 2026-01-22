@@ -1,0 +1,110 @@
+.city {
+    height: 40px;
+    width: 600px;
+    background-color: gray;
+    margin: auto;
+    padding-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+.cape {
+    height: 400px;
+    width: 600px;
+    background-color: white;
+    margin: auto;
+    margin-left: 470px;
+    margin-bottom: 20px;
+
+}
+
+.pet {
+    height: 150px;
+    width: 600px;
+    background-color: gray;
+    margin: auto;
+    margin-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.cob {
+    height: 50px;
+    width: 600px;
+    background-color: rgb(14, 163, 51);
+    margin: auto;
+    padding-top: 10px;
+    padding-left: 10px;
+    text-align: center;
+}
+
+.cop {
+    color: yellow;
+    margin-left: 60px;
+    background-color: rgb(11, 151, 170);
+    height: 40px;
+    width: 100px;
+}
+
+.ton {
+    color: yellow;
+    background-color: rgb(14, 141, 173);
+    height: 40px;
+    width: 100px;
+
+}
+
+.con {
+    color: yellow;
+    background-color: rgb(13, 154, 179);
+    height: 40px;
+    width: 100px;
+
+}
+
+.kate {
+    height: 390px;
+    width: 310px;
+    background-color: blue;
+    float: left;
+    color: antiquewhite;
+    font-size: large;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.jan {
+    height: 400px;
+    width: 260px;
+    background-color: white(223, 20, 20);
+    float: right;
+}
+
+.wall {
+    height: 270px;
+    width: 260px;
+    background-color: rgb(200, 19, 206);
+    margin-bottom: 10px;
+}
+
+.mall {
+    height: 110px;
+    width: 260px;
+    background-color: rgb(149, 185, 219);
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.photo {
+    height: 270px;
+    width: 260px;
+}
+
+.right {
+    margin-left: auto;
+    margin-left: 100px;
+    font-weight: bolder;
+    font-size: larger;
+}
+
