@@ -1,0 +1,107 @@
+.cop {
+    color: yellow;
+    margin-left: 60px;
+    background-color: rgb(8, 122, 156);
+    height: 40px;
+    width: 100px;
+}
+
+.ton {
+    color: yellow;
+    background-color: rgb(14, 166, 177);
+    height: 40px;
+    width: 100px;
+
+}
+
+.con {
+    color: yellow;
+    background-color: rgb(16, 135, 156);
+    height: 40px;
+    width: 100px;
+
+}
+.dec{
+    height: 40px;
+    width: 650px;
+    background-color: gray;
+    margin: auto;
+    padding-top: 20px;
+    margin-bottom: 20px
+}
+.nov{
+    height:90px ;
+    width: 600px;
+    background-color:rgb(233, 8, 139) ;
+    margin-bottom:10px ;
+    margin-left: 465px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.oct{
+    height:120px ;
+    width: 610px;
+    background-color:grey ;
+    margin-bottom:10px ;
+    margin-left: 465px;
+}
+.sep{
+    height:200px ;
+    width: 600px;
+    background-color:hsla(46, 88%, 46%, 0.397) ;
+    margin-bottom:10px ;
+    margin-left: 465px;
+    
+}
+.aug{
+    height:40px ;
+    width: 600px;
+    background-color:rgb(250, 5, 5) ;
+    margin-bottom:10px ;
+    margin-left: 465px;
+    text-align: center;
+    padding-top: 5px;
+}
+.top{
+    color: black(245, 142, 8);
+    font-size: x-large;
+}
+.at{
+    width: 603px;
+    margin-bottom: 10px;
+}
+.et{
+    width: 603px;
+    margin-bottom: 10px;
+}
+.it{
+    width: 603px;
+    margin-bottom: 10px;
+}
+.ot{
+    width: 603px;
+    margin-bottom: 10px;
+}
+.be{
+    height:200px ;
+    width: 600px;
+}
+.bu{
+    background-color: black;
+    color: antiquewhite;
+    height: 40px;
+    width: 75px;
+}
+.jul{
+    background-color: brown;
+    height: 40px;
+    width: 600px;
+    text-align: center;
+    padding-top: 5px;
+    margin-left: 465px;
+    margin-top: 20px;
+    padding-bottom: 5px;
+}
+.tip{
+    font-size: larger;
+}
