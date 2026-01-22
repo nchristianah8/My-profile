@@ -1,0 +1,94 @@
+.jan {
+    height: 40px;
+    width: 600px;
+    background-color: gray;
+    margin: auto;
+    padding-top: 20px;
+    margin-bottom: 20px;
+
+}
+.one {
+    color: yellow;
+    margin-left: 60px;
+    background-color: rgb(10, 179, 209);
+    height: 40px;
+    width: 100px;
+}
+
+.three {
+    color: yellow;
+    background-color: rgb(17, 106, 179);
+    height: 40px;
+    width: 100px;
+
+}
+
+.two {
+    color: yellow;
+    background-color: rgb(47, 139, 226);
+    height: 40px;
+    width: 100px;
+
+}
+.feb {
+    height: 350px;
+    width: 600px;
+    background-color:white;
+    margin: auto;
+    margin-left: 470px;
+    margin-bottom: 20px;
+
+}
+
+.march {
+    height: 100px;
+    width: 600px;
+    background-color: gray;
+    margin: auto;
+    margin-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.april {
+    height: 110px;
+    width: 600px;
+    background-color: rgb(14, 163, 51);
+    margin: auto;
+    padding-top: 5px;
+    padding-left: 10px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.may{
+height: 30px;
+    width: 600px;
+    background-color: rgb(14, 84, 163);
+    margin: auto;
+    padding-top: 5px;
+    padding-left: 10px;
+    text-align: center;  
+    padding-bottom: 5px;  
+}
+.four {
+    height: 330px;
+    width: 300px;
+    background-color: rgba(228, 9, 111, 0.411);
+    float: left;
+    color: antiquewhite;
+    font-size: large;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.five {
+    height: 340px;
+    width: 270px;
+    background-color:rgb(221, 10, 45);
+    float: right;
+}
+.six{
+    height:340px ;
+    width:270px ;
+}
